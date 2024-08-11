@@ -2,7 +2,7 @@
 - 👀 I’m interested in Unity 3D
 - 🌱 I’m currently learning Game Development in C#
 - 💞️ I’m looking to collaborate on development of Unity Games
-- 📫 How to reach me ...
+- 📫 How to reach me? [visit my LinkedIn profile](https://www.linkedin.com/in/nnamdiazikiwe/)
 
 <!---
 mhotep/mhotep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
