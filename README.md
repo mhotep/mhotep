@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mhotep
-- 👀 I’m interested in Unity 3D
-- 🌱 I’m currently learning Game Development in C#
+- 👋 Hi, I’m [@mhotep](https://github.com/mhotep)
+- 👀 I’m interested in [Unity 3D](https://unity.com/)
+- 🌱 I’m currently learning [Game Development in C#](https://medium.com/@nnamdi.azikiwe/gamedevhq-day-1-67689b950c56)
 - 💞️ I’m looking to collaborate on development of Unity Games
 - 📫 How to reach me? [visit my LinkedIn profile](https://www.linkedin.com/in/nnamdiazikiwe/)
 
